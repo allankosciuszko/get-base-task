@@ -6,6 +6,10 @@
 - docker-compose 
 - make
 
+### configure test account 
+Put correct properties in tests/src/test/resources/accounts.conf:
+	email, password, token
+
 ### Boot:
 ```
  make setup
