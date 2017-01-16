@@ -21,7 +21,7 @@ Put correct properties in tests/src/test/resources/accounts.conf:
 ```
 
 ### Reports
-Then reports should be ***./results/reports*** directory.
+Then reports should be in  ***./results/reports*** directory.
 
 ### Clean up
 ```
